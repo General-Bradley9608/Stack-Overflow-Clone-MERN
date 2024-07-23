@@ -1,12 +1,6 @@
 https://user-images.githubusercontent.com/43780137/158059050-481ffa30-e415-4156-aea7-072c817f2ae2.mp4
 
-[![Version](https://img.shields.io/static/v1?label=version&message=2.0.0&color=blue)](https://shields.io/)
-[![NPM](https://img.shields.io/static/v1?label=npm&message=6.8.5&color=blue)](https://shields.io/)
-[![NODE](https://img.shields.io/static/v1?label=node&message=10.12.8&color=success)](https://shields.io/)
-[![MYSQL](https://img.shields.io/static/v1?label=mysql&message=8.0.10&color=blueviolet)](https://shields.io/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://shields.io/)
-
-### [🌐 Website](https://stackoverflow-clone-client.vercel.app)  |  [📹 Demo Video](https://www.youtube.com/watch?v=bUAAgfGOfYg)
+### [🌐 Website](https://stackoverflow-clone-client.vercel.app)
 
 ### API Hosted On
 - __[stackoverflow-clone-api.onrender.com](https://stackoverflow-clone-api.onrender.com) (Primary)__
@@ -14,7 +8,7 @@ https://user-images.githubusercontent.com/43780137/158059050-481ffa30-e415-4156-
 
 As the name suggests, this project is a clone of a famous Q/A website for professional and enthusiast programmers built solely by me using a completely different stack.
 
-This repo consists of the Frontend code of the project, the backend code is in __[Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)__
+This repo consists of the Frontend code of the project, the backend code is in __[Stackoverflow-Clone-Backend](https://github.com/General-Bradley9608/Stack-Overflow-Clone-Backend)__
 
 ## My Tech Stack (MERN)
 
@@ -38,8 +32,8 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
 1. Open your local CLI -
 
    ```
-   mkdir Stackoverflow-Clone
-   cd Stackoverflow-Clone
+   mkdir Stack-Overflow-Clone-MERN
+   cd Stack-Overflow-Clone-MERN
    ```
 
 2. Setup the backend code -
@@ -50,8 +44,8 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
    - Clone the code & install the modules-
 
      ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Backend.git
-     cd Stackoverflow-Clone-Backend
+     git clone https://github.com/General-Bradley9608/Stack-Overflow-Clone-Backend.git
+     cd Stack-Overflow-Clone-Backend
 
      npm install
      ```
@@ -65,22 +59,19 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
 
    - Run the index `npm start`.
 
-3. Open a new CLI terminal and goto the root `Stackoverflow-Clone` folder you created in the first step.
+3. Open a new CLI terminal and goto the root `Stack-Overflow-Clone-MERN` folder you created in the first step.
 4. Setup the Frontend code -
 
    - Clone the code & install the modules-
 
      ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Frontend.git
-     cd Stackoverflow-Clone-Frontend
+     git clone https://github.com/General-Bradley9606/Stack-Overflow-Clone-MERN.git
+     cd Stack-Overflow-Clone-MERN
 
      npm install
      ```
 
    - Run the client index `npm start`.
-   
-   __OPTIONAL (Recommended For Frontend Developers):__ Can just change the path [here](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/blob/53b64c37981c618802547cd17483525532de83f0/src/config/index.js#L6) to this `https://stackoverflow-clone-backend.herokuapp.com`
-   Now, it will hit PROD
 
 Let me know if you are interested and would want me to assign it to you
 
@@ -108,10 +99,6 @@ _Follow the steps properly (manual or Docker) and you are good to go._
 ## Contributing
 
 - Go to `Contributing.md`
-
-## DEMO
-
-#### VIDEO - [Watch the video](https://www.youtube.com/watch?v=bUAAgfGOfYg)
 
 _Video Last Updated on 7th March, 2022_
 
