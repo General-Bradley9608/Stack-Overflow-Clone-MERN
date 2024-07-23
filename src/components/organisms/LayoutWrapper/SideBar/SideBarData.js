@@ -1,3 +1,4 @@
+import React from 'react';
 import { ReactComponent as GlobalIcon } from '../../../../assets/Globe.svg';
 
 export const SideBarData = [
